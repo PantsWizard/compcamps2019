@@ -1,0 +1,87 @@
+.twitter-tweet{
+  text-align: center;
+  margin-left: 535px;
+}
+.title{
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  color: #4AE83C;
+  font-size: 50px;
+}
+.paragraph{
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  color: #FFFFFF;
+}
+.img_toes{
+  text-align: center;
+}
+.nav{
+  text-align: center;
+  color: #000000
+
+}
+.project_title{
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 50px;
+}
+.nav_bar{
+  list-style-type: none;
+}
+.nav_link{
+  display: inline;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-size: 40px;
+}
+.project_paragraph{
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+}
+#status {
+    color: #000000;
+    font-size: 1.5em;
+    font-family:'minecraftfont';
+    text-shadow:3px 3px #3F3F00;
+    padding: 40px;
+    position: absolute;
+}
+.pop {
+    animation: pop 0.58s infinite;
+    -webkit-animation: pop 0.58s infinite;
+    text-align: right;
+}
+@keyframes pop {
+    from {
+        transform:scale(0.95)
+    }
+    50% {
+        transform:scale(1)
+    }
+    to {
+        transform:scale(0.95)
+    }
+}
+@-webkit-keyframes pop {
+    from {
+        -webkit-transform:scale(0.95)
+    }
+    50% {
+        -webkit-transform:scale(1)
+    }
+    to {
+        -webkit-transform:scale(0.95)
+    }
+}
+.tilt {
+    -ms-transform: rotate(-25deg);
+    -webkit-transform: rotate(-25deg);
+    transform: rotate(-25deg);
+    margin-left: 1000px;
+}
+@font-face {
+    font-family:'minecraftfont';
+    src: url('http://design.d3x.co/demo/mcgeneric
+}
