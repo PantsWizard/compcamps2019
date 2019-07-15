@@ -3,13 +3,13 @@
   margin-left: 535px;
 }
 .title{
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
   text-align: center;
   color: #4AE83C;
   font-size: 50px;
 }
 .paragraph{
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
   text-align: center;
   color: #FFFFFF;
 }
@@ -23,7 +23,7 @@
 }
 .project_title{
   text-align: center;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
   font-size: 50px;
 }
 .nav_bar{
@@ -37,7 +37,7 @@
 }
 .project_paragraph{
   text-align: center;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
   font-size: 20px;
 }
 #status {
