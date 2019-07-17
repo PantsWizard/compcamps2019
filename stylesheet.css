@@ -36,9 +36,9 @@ a:hover{
 }
 .nav_link{
   display: inline;
-  margin-left: 50px;
-  margin-right: 50px;
-  font-size: 40px;
+  margin-left: 60px;
+  margin-right: 60px;
+  font-size: 50px;
 }
 .project_paragraph{
   text-align: center;
